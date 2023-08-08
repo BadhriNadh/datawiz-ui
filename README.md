@@ -1,3 +1,4 @@
+# DataWiz
 <h3> Project's User Scenarios:</h3>
 <i>The following showcases the general workflows the user performs using our application:</i>
 <ul>
